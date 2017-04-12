@@ -12,7 +12,6 @@
     (capitalize-word -1)))
 
 ;;;###autoload
-
 (define-minor-mode boolcase-mode
   "Automatically capitalize booleans"
   :lighter " BC"

@@ -1,0 +1,25 @@
+〔?xml 「version “1.0” encoding “utf-8”」〕
+〔feed 「xmlns “http://www.w3.org/2005/Atom” xml:base “http://xahlee.org/emacs/”」
+
+  〔title Xah's Emacs Blog〕
+  〔subtitle Emacs, Emacs, Emacs〕
+  〔link 「rel “self” href “http://xahlee.org/emacs/blog.xml”」〕
+  〔link 「rel “alternate” href “http://xahlee.org/emacs/blog.html”」〕
+  〔updated 2010-09-19T14:53:08-07:00〕
+  〔author
+   〔name Xah Lee〕
+   〔uri http://xahlee.org/〕
+  〕
+
+  〔id http://xahlee.org/emacs/blog.html〕
+  〔icon http://xahlee.org/ics/sum.png〕
+  〔rights © 2009, 2010 Xah Lee〕
+
+  〔entry
+   〔title Emacs: Abbrev Mode Tutorial〕
+   〔id tag:xahlee.org,2010-09-19:215308〕
+   〔updated 2010-09-19T14:53:08-07:00〕
+   〔summary tutorial〕
+   〔link 「rel “alternate” href “http://xahlee.org/emacs/emacs_abbrev_mode.html”」〕
+  〕
+〕
