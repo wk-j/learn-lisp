@@ -1,4 +1,3 @@
-
 (defconst boolcase-mode-words '("true" "false")
   "Words to capitalize such as true and false.")
 
