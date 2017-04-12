@@ -13,14 +13,14 @@
 
 ;;;###autoload
 
-(define-minor-mode boolcase-mode
+(define-minor-mode boolcase2-mode
   "Automatically capitalize booleans"
   :lighter " BC"
-  (if boolcase-mode
+  (if boolcase2-mode
       (add-hook 'post-self-insert-hook
                 'boolcase-mode-check nil t)
     (remove-hook 'post-self-insert-hook
                  'boolcase-mode-check t)))
 
-(provide 'boolcase)
+(provide 'boolcase2)
 

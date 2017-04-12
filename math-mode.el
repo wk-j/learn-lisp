@@ -7,4 +7,3 @@
   "Major mode for editing mymatch language code"
   (setq font-lock-defaults '(math-highlights)))
 
-
