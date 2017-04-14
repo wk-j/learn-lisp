@@ -11,3 +11,9 @@
   (interactive
     (message "Hello, world")))
 
+(defun gg ()
+  (interactive
+   (message "Hello, world")))
+
+
+
